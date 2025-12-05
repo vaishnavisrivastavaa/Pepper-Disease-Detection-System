@@ -37,22 +37,8 @@ You can download it from Kaggle or other public sources and place it in a `data/
 
 ---
 
-## ▶️ How to Run
 
-### 1. Clone the repository
-
-```
-git clone https://github.com/your-username/pepper-disease-detection.git
-cd pepper-disease-detection
-```
-
-### 2. Install dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### 3. Run the notebook
+### Run the notebook
 
 ```
 jupyter notebook
